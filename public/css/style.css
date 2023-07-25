@@ -1,6 +1,5 @@
 :root {
-  --section-rotate: 9vw;
-  --header:#000; 
+  
   --icons: #55c57a;
   --text: #777;
   --body: #fff;
@@ -10,10 +9,26 @@
   --shadow: rgba(0, 0, 0, 0.25);
   --shadow-secondary: rgba(0, 0, 0, 0.15); 
   --success: #20bf6b;
-  --gradient-primary-start: #7dd56f;
-  --gradient-primary-end: #28b487;
-  --gradient-secondary-start: rgba(125, 213, 111, 0.85);
+  --gradient-primary-start: #b972d8;
+  --gradient-primary-end: #9b59b6;
+  --gradient-secondary-start: rgba(142, 68, 173, 0.85);
   --gradient-secondary-end: rgba(40, 180, 135, 0.85); 
+  --gradient-secondary-end: rgba(155, 89, 182, 0.85);
+  
+  --section-rotate: 9vw;
+  --header: var(--gradient-primary-end);
+  /* start changes */
+  --icons: #9b59b6;
+  /* end changes */
+  --text: #777;
+  --body: #fff;
+  --background-primary: #f7f7f7;
+  --error: #eb4d4b;
+  --error-secondary: #ff7730;
+  --shadow: rgba(0, 0, 0, 0.25);
+  --shadow-secondary: rgba(0, 0, 0, 0.15);
+  --success: #20bf6b;
+ 
   --input: #bbb; 
   --footer-text: #999;
 
@@ -121,7 +136,7 @@ body {
   box-shadow: 0 2rem 4rem var(--shadow);
 }
 .alert--success {
-  background-color: var(--sucess);
+  background-color: var(--success);
 }
 .alert--error {
   background-color: var(--error);
