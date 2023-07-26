@@ -3,7 +3,7 @@
 This project is based on nodejs, mongodb and pug. 
 The porpuse of this project is to create tours around the world and be able to book them. 
 
-##start project 
+## start project 
 to start the project please run npm install or yarn install, 
 npm start || yarn start 
 Add a config.env file with these data: 
@@ -22,7 +22,7 @@ Add a config.env file with these data:
 -EMAIL_HOST=
 -EMAIL_PORT=
 
-##Dependecies:
+## Dependecies:
 
 - @babel/polyfill 7.4.4
 - axios 0.18.0
@@ -64,7 +64,7 @@ Add a config.env file with these data:
 
 
 
-###Images
+### Images
 
 Tours
 
