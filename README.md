@@ -73,7 +73,7 @@ Tours
 
 >Tour.
 
-![](https://github.com/julidavi777/tours-project/blob/main/Screenshots/tours.png?raw=true)
+![](https://github.com/julidavi777/tours-project/blob/main/Screenshots/showTour.png?raw=true)
 
 
 
